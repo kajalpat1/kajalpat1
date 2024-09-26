@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kajalpat1.kajalpat1" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Kajal+Patel!;A+Computer+Science+Student+at+UMich" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kajal+Patel!" />
 </h1>
 
 <h3 align="center">An Aspiring Software Engineer from Michigan, USA</h3>
