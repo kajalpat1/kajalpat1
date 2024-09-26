@@ -14,7 +14,7 @@
 
  ✍️ I’m currently developing an application using **OpenAI** and **LangChain** framework, focusing on **RAG** and **LLM Agents** to build an intuitive understanding of **LLM operations**
 
- ⚡ I love to **travel**, cook **new and fun recipes**, play and watch **Soccer**, and **spend time with family and friends**
+ ⚡ I love to **travel**, cook and try **new recipes**, play and watch **Soccer**, and **spend time with family and friends**
 
  💬 Ask me about any **questions, concerns, or anything [here](https://github.com/kajalpat1/kajalpat1/issues)!**
 
